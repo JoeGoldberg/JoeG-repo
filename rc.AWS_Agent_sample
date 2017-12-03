@@ -1,5 +1,5 @@
 #!/bin/sh
-# chkconfig: 345 98 01
+# chkconfig: 03456 98 01
 # description: Startup and Shutdown script for Control-M Agent
 
 # set minimal PATH to make sure basic commands like grep and awk are recognized
